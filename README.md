@@ -4,7 +4,7 @@ LSTM algorithm for Aviation parameters prediction.
 
 ## Getting Started
 
-Basic implementation of the algorithm for study porpuses. The database contains aviation data used in flight decisions regardin climate changes.
+Basic implementation of the algorithm for study purposes. The database contains aviation data used in flight decisions regardin climate changes.
 
 ### Prerequisites
 
